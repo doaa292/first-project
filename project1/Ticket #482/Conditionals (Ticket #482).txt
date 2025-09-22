@@ -1,0 +1,10 @@
+Gateway alert:
+“Card flow not triggering; cash path okay. Syntax error seen
+in logs.”
+
+user_name = input("Name? ")
+mood = input("Payment method? (card/cash): ")
+if mood = "card":
+print("Processing...")
+else
+    message = "Cash accepted"

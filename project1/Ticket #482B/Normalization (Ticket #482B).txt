@@ -1,0 +1,9 @@
+Ops page:
+“Users type ‘CARD’ or ‘Card’ → declined path taken
+incorrectly.”
+
+payment_method = input("Payment method? (card/cash): ")
+if payment_method == "card":
+    print("Processing...")
+else:
+    print("Cash accepted")

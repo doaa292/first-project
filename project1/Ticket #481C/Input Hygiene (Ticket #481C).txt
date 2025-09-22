@@ -1,0 +1,6 @@
+QA note:
+“Names with spaces or trailing blanks break receipt layout.”
+
+customerName = input("Customer name: ")
+greeting = "Hello " + customerName.title() + "!"
+print(greeting)

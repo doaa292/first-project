@@ -1,0 +1,4 @@
+Line(2):PEP 8: Explicit transformations for readability (.lower()).
+Line(4):PEP 8: correct comparison operators(==).
+Line(5):PEP 8: Indentation
+Line(5+7):PEP 8: String formatting with f-strings.

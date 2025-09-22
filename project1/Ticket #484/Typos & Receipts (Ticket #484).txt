@@ -1,0 +1,5 @@
+Finance message:
+“Receipt printing failed: ‘messge’ not defined.”
+
+message = "Receipt printed"
+print(messge)

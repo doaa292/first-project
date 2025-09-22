@@ -1,0 +1,8 @@
+Client message:
+
+“Checkout froze again. New users see a crash right after
+greeting. Payments not going through.”
+
+prnt("Welcome to Acme!") 
+user_name = input("Name? ")
+print("Hello"+user_name.title()) 

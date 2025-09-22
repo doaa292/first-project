@@ -1,0 +1,1 @@
+Line(1):PEP 8: Explicit transformations for readability (.lower()) cause Users typing CARD or Card caused failures.

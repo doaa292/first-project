@@ -1,0 +1,2 @@
+Line (1):Real crash from prnt("...").
+Line (3):PEP 8: String formatting with f-strings

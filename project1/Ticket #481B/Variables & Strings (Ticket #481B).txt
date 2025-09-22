@@ -1,0 +1,7 @@
+Support ticket:
+
+“Greeting looks jammed (‘HelloAlex’). Two refunds
+requested.”
+
+name = input("Name? ")
+print("Hello"+name.title())

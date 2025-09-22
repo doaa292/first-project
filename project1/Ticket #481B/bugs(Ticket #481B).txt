@@ -1,0 +1,3 @@
+Line(1):PEP 8: Naming conventions (snake_case)
+Line(2): Bug: HelloAlex (no space, poor formatting).
+Line(2):PEP 8: PEP 8: String formatting with f-strings

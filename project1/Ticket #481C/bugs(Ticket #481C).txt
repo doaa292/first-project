@@ -1,0 +1,5 @@
+Line(1):PEP 8: Naming conventions (snake_case)
+Line(1):Bug: customerName with trailing spaces breaks receipt layout
+Line(1): Importance of .strip() for input cleaning.
+Line(1):whitespace rules.
+Line(2):PEP 8: String formatting with f-strings
