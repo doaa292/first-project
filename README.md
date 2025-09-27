@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi 👋, I'm Dua<br><br>- 🔭 I’m currently working on: Tasks with errors focusing on PEP8 rules in Python<br>- 👯 I’m looking to collaborate on: C programming and Linux terminal projects<br>- 🤝 I’m looking for help with: A deeper understanding of Python, especially working with its libraries<br>- 🌱 I’m currently learning: Deep dive into Python and understanding large-scale projects<br>- 💬 Ask me about: Python basics, PEP8 standards, C programming, and Linux terminal<br>- ⚡ Fun fact: I love coding while listening to old songs, especially "Sorry Seems to Be the Hardest Word", and if I get stressed, it might make me cry 😅<br>
+# Hi 👋, I'm Dua<br><br>- 🔭 I’m currently working on: Tasks with errors focusing on PEP8 rules in Python<br>- 👯 I’m looking to collaborate on: C programming and Linux terminal projects<br>- 🤝 I’m looking for help with: A deeper understanding of Python, especially working with its libraries<br>- 🌱 I’m currently learning: Deep dive into Python and understanding large-scale projects<br>- 💬 Ask me about: Python basics, PEP8 standards, C programming, and Linux terminal<br>- ⚡ Fun fact: I love coding while listening to old songs, especially "Sorry Seems to Be the Hardest Word & Shape of My Heart", and if I get stressed, it might make me cry 😅<br>
 
 
 ## 🌐 Socials:
